@@ -1,0 +1,24 @@
+{
+    "name": "bhash",
+    "version": "1.0.0",
+    "description": "A lightweight bcrypt alternative for password hashing and verification",
+    "main": "src/index.js",
+    "scripts": {
+    "test": "node test/bhash.test.js"
+    },
+    "keywords": [
+    "hash",
+    "password",
+    "bhash",
+    "security"
+    ],
+    "author": "Muhammad",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/wajid69/bhash.git"
+    },
+    "dependencies": {
+    "bhash": "^1.0.0"
+    }
+}
